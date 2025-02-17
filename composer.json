@@ -1,6 +1,7 @@
 {
     "name": "tanafaat/chapter-1-sprint-3",
-    "description": "A demo package tanafaat",
+    "description": "A demo package is for testing purposes only",
+    "type": "library",
     "require-dev": {
         "squizlabs/php_codesniffer": "3.*",
         "phpstan/phpstan": "^2.1"
