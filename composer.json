@@ -1,5 +1,6 @@
 {
-    "name": "mac/chapter-1-sprint-3",
+    "name": "tanafaat/chapter-1-sprint-3",
+    "description": "A demo package tanafaat",
     "require-dev": {
         "squizlabs/php_codesniffer": "3.*",
         "phpstan/phpstan": "^2.1"
